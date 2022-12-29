@@ -1,0 +1,100 @@
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\bin\x64\Debug\App.xbf
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\bin\x64\Debug\ChocolateDetails.xbf
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\bin\x64\Debug\MainPage.xbf
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\bin\x64\Debug\ChocolateApp.xr.xml
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\bin\x64\Debug\ChocolateApp.exe
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\bin\x64\Debug\ChocolateApp.pdb
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\bin\x64\Debug\resources.pri
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\bin\x64\Debug\AppxManifest.xml
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\bin\x64\Debug\Core\AppxManifest.xml
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\bin\x64\Debug\Core\ChocolateApp.exe
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\bin\x64\Debug\ChocolateApp.build.appxrecipe
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\bin\x64\Debug\System.Runtime.dll
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\ChocolateApp.csproj.AssemblyReference.cache
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\App.g.i.cs
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\App.g.cs
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\ChocolateDetails.g.i.cs
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\ChocolateDetails.g.cs
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\MainPage.g.i.cs
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\MainPage.g.cs
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\XamlTypeInfo.g.cs
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\App.xaml
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\ChocolateDetails.xaml
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\MainPage.xaml
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\App.xbf
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\ChocolateDetails.xbf
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\MainPage.xbf
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\XamlSaveStateFile.xml
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\ChocolateApp.csproj.CoreCompileInputs.cache
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\ChocolateApp.csproj.CopyComplete
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\ChocolateApp.exe
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\ChocolateApp.pdb
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\ResourceHandlingTask.state
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\priconfig.xml
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\priconfig.xml.intermediate
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\unfiltered.layout.resfiles
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\filtered.layout.resfiles
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\filtered.layout.resfiles.intermediate
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\excluded.layout.resfiles
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\excluded.layout.resfiles.intermediate
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\resources.resfiles
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\resources.resfiles.intermediate
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\pri.resfiles
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\pri.resfiles.intermediate
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\qualifiers.txt
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\qualifiers.txt.intermediate
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\ProjectArchitectures.txt
+D:\CS_ACSL-A_50_01\1268507_Nuzat Tabassum\ChocolateApp\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424599200000000.json
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\bin\x64\Debug\App.xbf
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\bin\x64\Debug\ChocolateDetails.xbf
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\bin\x64\Debug\MainPage.xbf
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\bin\x64\Debug\ChocolateApp.xr.xml
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\bin\x64\Debug\ChocolateApp.exe
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\bin\x64\Debug\ChocolateApp.pdb
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\bin\x64\Debug\resources.pri
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\bin\x64\Debug\AppxManifest.xml
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\bin\x64\Debug\Core\AppxManifest.xml
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\bin\x64\Debug\Core\ChocolateApp.exe
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\bin\x64\Debug\ChocolateApp.build.appxrecipe
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\bin\x64\Debug\System.Runtime.dll
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\ChocolateApp.csproj.AssemblyReference.cache
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\App.g.i.cs
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\App.g.cs
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\ChocolateDetails.g.i.cs
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\ChocolateDetails.g.cs
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\MainPage.g.i.cs
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\MainPage.g.cs
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\XamlTypeInfo.g.cs
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\App.xaml
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\ChocolateDetails.xaml
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\MainPage.xaml
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\App.xbf
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\ChocolateDetails.xbf
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\MainPage.xbf
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\XamlSaveStateFile.xml
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\ChocolateApp.csproj.CoreCompileInputs.cache
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\ChocolateApp.csproj.CopyComplete
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\ChocolateApp.exe
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\ChocolateApp.pdb
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\ResourceHandlingTask.state
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\priconfig.xml
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\priconfig.xml.intermediate
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\unfiltered.layout.resfiles
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\filtered.layout.resfiles
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\filtered.layout.resfiles.intermediate
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\excluded.layout.resfiles
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\excluded.layout.resfiles.intermediate
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\resources.resfiles
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\resources.resfiles.intermediate
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\pri.resfiles
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\pri.resfiles.intermediate
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\qualifiers.txt
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\qualifiers.txt.intermediate
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\ProjectArchitectures.txt
+F:\Tabassum All Project 1268507\C# .Net\ChocolateApp\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424599200000000.json

@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "..\\ChocolateStoreApp.sln",
+    "projects": [
+      "ChocolateApp\\ChocolateApp.csproj"
+    ]
+  }
+}
